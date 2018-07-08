@@ -11,7 +11,7 @@
 //   The default is "firefart".
 //
 // Original exploit (dirtycow's ptrace_pokedata "pokemon" method):
-//   https://github.com/dirtycow/dirtycow.github.io/blob/master/pokemon.c
+//   https://github.com/dilpreet1998/cow
 //
 // Compile with:
 //   gcc -pthread cow.c -o cow -lcrypt
