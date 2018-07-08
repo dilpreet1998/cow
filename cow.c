@@ -14,7 +14,7 @@
 //   https://github.com/dirtycow/dirtycow.github.io/blob/master/pokemon.c
 //
 // Compile with:
-//   gcc -pthread dirty.c -o dirty -lcrypt
+//   gcc -pthread cow.c -o cow -lcrypt
 //
 // Then run the newly create binary by either doing:
 //   "./dirty" or "./dirty my-new-password"
